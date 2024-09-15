@@ -1,3 +1,4 @@
+![logo](https://github.com/kamals2506/kamals2506/blob/main/Blue%20Corporate%20Linkedin%20Article%20Cover%20image%20.png)
 <h1 align="center">Hi 👋, I'm Kamal Singh</h1>
 <h3 align="center">PHP Developer | UI/UX Designer</h3>
 
