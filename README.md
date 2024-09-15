@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamals2506&label=Profile%20views&color=0e75b6&style=flat" alt="kamals2506" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/kamalsingh2506](https://linktr.ee/kamalsingh2506)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/kamalsingh2506](https://linktr.ee/kamalsingh2506](https://linktr.ee/kamalsingh2506)
 
 - 💬 Ask me about **php,codeigniter,bootstrap,css,html**
 
